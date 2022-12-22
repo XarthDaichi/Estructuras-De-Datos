@@ -1,0 +1,6 @@
+﻿  VectorInt.cpp
+C:\Users\Xarthy\Desktop\EstructuraDatos\Tarea2\Version2\Tarea2\Tarea2\VectorInt.cpp(25,20): warning C4018: '<': signed/unsigned mismatch
+  source.cpp
+C:\Users\Xarthy\Desktop\EstructuraDatos\Tarea2\Version2\Tarea2\Tarea2\source.cpp(6,29): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Tarea2.vcxproj -> C:\Users\Xarthy\Desktop\EstructuraDatos\Tarea2\Version2\Tarea2\x64\Debug\Tarea2.exe

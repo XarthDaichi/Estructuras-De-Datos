@@ -1,0 +1,3 @@
+﻿  Game.cpp
+C:\Users\Xarthy\Desktop\EstructuraDatos\Clase19Agosto\Clase23Agosto\Clase23Agosto\Game.cpp(5,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Clase23Agosto.vcxproj -> C:\Users\Xarthy\Desktop\EstructuraDatos\Clase19Agosto\Clase23Agosto\x64\Debug\Clase23Agosto.exe

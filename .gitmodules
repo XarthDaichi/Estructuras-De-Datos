@@ -1,0 +1,6 @@
+[submodule "Project-1-Scrabble"]
+	path = Project-1-Scrabble
+	url = https://github.com/XarthDaichi/scrabble.git
+[submodule "Project-2-Gato"]
+	path = Project-2-Gato
+	url = https://github.com/XarthDaichi/gato.git

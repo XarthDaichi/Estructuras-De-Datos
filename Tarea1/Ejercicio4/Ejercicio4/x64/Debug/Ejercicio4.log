@@ -1,0 +1,3 @@
+﻿  source.cpp
+C:\Users\Xarthy\Desktop\EstructuraDatos\Tarea1\Ejercicio4\Ejercicio4\source.cpp(7,62): warning C4244: 'return': conversion from 'double' to 'unsigned int', possible loss of data
+  Ejercicio4.vcxproj -> C:\Users\Xarthy\Desktop\EstructuraDatos\Tarea1\Ejercicio4\x64\Debug\Ejercicio4.exe

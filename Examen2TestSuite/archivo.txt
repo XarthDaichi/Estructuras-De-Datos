@@ -1,0 +1,1 @@
+Las estructuras de datos son importantes en las ciencias computacionales ya que permiten organizar la información de manera eficiente y optimizando el espacio de memoria de una computadora. Existen diversos tipos de estructuras para resolver diversos problemas computacionales.
